@@ -1,0 +1,15 @@
+.background{
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-position : center;
+}
+h1{
+    font-family: monospace;
+    color: cyan;
+}
+#canvas_1{
+    border: solid blue;
+    border-width: 3px;
+    border-style: ridge;
+    background-color: white;
+}
